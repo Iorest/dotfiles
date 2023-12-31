@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+02c80a49d4af31a2ec2d8127b04fd2e8ca197e36 refs/remotes/origin/circleci-project-setup
+f23641b47140a3d2e06ac2c77e5f22f368f4a67e refs/remotes/origin/dbalatero/fix-jj-to-enter-normal/47
+3aad4851b6eef8cfca92931bbf85aaddfc8eaedb refs/remotes/origin/dbalatero/integration-tests-on-ci
+99cb1c50f054a8d8a513d3a6271cca1cec6a23dc refs/remotes/origin/fix-various-field-types
+f1c740cb18afe6232b450b288832d60544ac6c6b refs/remotes/origin/master
+213e19509682ca33da528e0819a0c77b006c4e2a refs/remotes/origin/nvim
+87a3054e4f2e9f4b5ead39b16869e7456633ea6b refs/remotes/origin/stash-old-laptop
+84a47f9bcae4a3b07332d85bd6ace035b0de3a40 refs/remotes/origin/v2/add-integration-test-framework
+801ea4ab83266c53fc46b5487a3bf57a9ae849e8 refs/remotes/origin/v2/enable-tests-on-osx
+c4460238a970262fe07294beeea5e5beca5d5b48 refs/remotes/origin/v2/fix-back-and-line-motions
+b212c4ca40d5d585f305b31824ff3ce0051b8641 refs/remotes/origin/v2/switch-to-hybrid-editing-mode
+c9de1e180cd5d3ff46619e2a2aa4c0cbd44781a4 refs/remotes/origin/vim-mode-v2
