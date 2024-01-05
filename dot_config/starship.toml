@@ -49,7 +49,6 @@ style = "bg:#394260"
 format = '[[($state( $progress_current of $progress_total)\)](fg:#769ff0 bg:#394260)]($style)'
 
 [git_metrics]
-disabled = false
 format = '[+$added](fg:#ff0000 bg:#394260)/[-$deleted](fg:#00ff00 bg:#394260)'
 
 [python]
